@@ -8,6 +8,6 @@ public class StudentRestController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello from Azure!";
+        return "Learning CI/CD!";
     }
 }
