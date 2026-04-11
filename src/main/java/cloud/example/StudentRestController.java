@@ -8,6 +8,6 @@ public class StudentRestController {
 
     @GetMapping("/")
     public String hello() {
-        return "Learning CI/CD!";
+        return "Webhook";
     }
 }
